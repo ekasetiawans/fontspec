@@ -1,6 +1,6 @@
 name: fontspec
 description: Generate fonts section in pubspec.yaml based on your fonts files automatically.
-version: 0.0.1
+version: 0.0.1+1
 repository: https://github.com/ekasetiawans/fontspec
 
 environment:
